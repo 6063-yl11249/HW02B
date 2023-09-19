@@ -44,7 +44,7 @@ Link:
 
 
 Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/malevich-suprematism-self-portrait-in-two-dimensions.jpg)
 
 
 Image on repo:  
@@ -58,3 +58,12 @@ this is a new line.
 To start a new paragraph, leave an empty line between two lines of text.
 
 This is a new paragraph.
+
+1.Create a white canvas
+2.Draw the black square on the bottom-center
+3.Draw the yellow rectangle on the right side
+4.Draw the brown small rectangle above the yellow one
+5.Draw the brown circle
+6.Draw the white circle on the brown one to make a circular ring
+7.Draw the small black quad on the top-left corner
+8.Draw the blue quad below the black quad
