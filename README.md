@@ -48,7 +48,7 @@ Image with url:
 
 
 Image on repo:  
-![image description](./file-name.jpg)
+![design process](./HW02B-1.jpg) (./HW02B-2.jpg)
 
 
 To start a new line, add two spaces at the end of a line, like this:  
